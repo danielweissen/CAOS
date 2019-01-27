@@ -6,6 +6,13 @@
     <TabInfo>
       <wxString Value="C:\Users\Daniel\Desktop\SEMESTER 3\CAOS\Match4\CAOS\Match4\Match4Logic\main.c" Name="FileName"/>
       <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="35" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\Daniel\Desktop\SEMESTER 3\CAOS\Match4\CAOS\Match4\Match4Logic\winningConditions.h" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
       <int Value="0" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
